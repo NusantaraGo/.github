@@ -22,14 +22,14 @@
 ## 👥 Our Team (CC25-CF245)
 
 ### Machine Learning
-| Bangkit ID | Name | University | LinkedIn | GitHub |
+| Cohort ID | Name | University | LinkedIn | GitHub |
 | --- | --- | --- | --- | --- |
 | MC671D5Y1431 | Zidan Mubarak | Universitas Islam Negeri Ar-Raniry Banda Aceh | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zidan-mubarak/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/zidanmubarak) |
 | MC223D5Y0594 | Hilal Fazri | Universitas Islam Negeri Sunan Kalijaga Yogyakarta | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hilal-fazri-0a724921b/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Hilalfzr) |
 | MC671D5Y1746 | Arif Maulana Insaf | Universitas Islam Negeri Ar-Raniry Banda Aceh | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arif-maulana-insaf-b22732291/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/arif-maulana-insaf) |
 
 ### Frontend & Backend Development
-| Bangkit ID | Name | University | LinkedIn | GitHub |
+| Cohort ID | Name | University | LinkedIn | GitHub |
 | --- | --- | --- | --- | --- |
 | FC193D5Y1993 | Salahudin Kholik Prasetyono | Universitas Bina Sarana Informatika | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salahudin-kholik-prasetyono/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Redwolfc4) |
 | FC690D5Y101 | Fikri Fadila | Universitas Muhammadiyah Kendari | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fikri-fadila/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/fikrifadila) |
