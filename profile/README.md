@@ -32,8 +32,8 @@
 | Cohort ID | Name | University | LinkedIn | GitHub |
 | --- | --- | --- | --- | --- |
 | FC193D5Y1993 | Salahudin Kholik Prasetyono | Universitas Bina Sarana Informatika | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salahudin-kholik-prasetyono/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Redwolfc4) |
-| FC690D5Y101 | Fikri Fadila | Universitas Muhammadiyah Kendari | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fikri-fadila/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/fikrifadila) |
-| FC324D5Y1772 | Nathan Roihan | Universitas Tanjung Pura | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-roihan-a6b552334/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nathanroihan) |
+| FC690D5Y101 | Fikri Fadila | Universitas Muhammadiyah Kendari | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fikri-fadila-84a6a6296/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/fikrifadila) |
+| FC324D5Y1772 | Nathan Roihan | Universitas Tanjung Pura | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-roihan-a6b552334/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Shuu-cc) |
 
 ## 📂 Project Repositories
 
