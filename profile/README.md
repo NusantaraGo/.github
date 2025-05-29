@@ -41,7 +41,7 @@
 | --- | --- | --- |
 | Machine Learning | [NusantaraGo-ML](https://github.com/NusantaraGo/NusantaraGo-ML) | [![Docs](https://img.shields.io/badge/Documentation-808080?style=flat&logo=markdown&logoColor=white)](https://github.com/NusantaraGo/NusantaraGo-ML#readme) |
 | Frontend | [NusantaraGo_Frontend](https://github.com/NusantaraGo/NusantaraGO_Frontend) | [![Docs](https://img.shields.io/badge/Documentation-808080?style=flat&logo=markdown&logoColor=white)](https://github.com/NusantaraGo/NusantaraGO_Frontend#readme) |
-<!-- | Backend | [NusantaraGo-FE](https://github.com/NusantaraGo/NusantaraGo-FE) | [![Docs](https://img.shields.io/badge/Documentation-808080?style=flat&logo=markdown&logoColor=white)](https://github.com/NusantaraGo/NusantaraGo-FE#readme) | -->
+| Backend | [NusantaraGo-FE](https://github.com/NusantaraGo/NusantaraGo_Backend) | [![Docs](https://img.shields.io/badge/Documentation-808080?style=flat&logo=markdown&logoColor=white)](https://github.com/NusantaraGo/NusantaraGo_Backend#readme) |
 
 ## 💡 Why NusantaraGo?
 
