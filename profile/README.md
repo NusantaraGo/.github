@@ -45,7 +45,7 @@
 
 ## 🚀 Deployment
 
-<p align="justify"> [Cloudflare](https://nusantarago.pages.dev/) </p>
+[Cloudflare](https://nusantarago.pages.dev/)
 
 ## 💡 Why NusantaraGo?
 
