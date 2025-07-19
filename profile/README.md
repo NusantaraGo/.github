@@ -43,6 +43,10 @@
 | Frontend | [NusantaraGo_Frontend](https://github.com/NusantaraGo/NusantaraGO_Frontend) | [![Docs](https://img.shields.io/badge/Documentation-808080?style=flat&logo=markdown&logoColor=white)](https://github.com/NusantaraGo/NusantaraGO_Frontend#readme) |
 | Backend | [NusantaraGo-FE](https://github.com/NusantaraGo/NusantaraGo_Backend) | [![Docs](https://img.shields.io/badge/Documentation-808080?style=flat&logo=markdown&logoColor=white)](https://github.com/NusantaraGo/NusantaraGo_Backend#readme) |
 
+## 🚀 Deployment
+
+<p align="justify"> [Cloudflare](https://nusantarago.pages.dev/) </p>
+
 ## 💡 Why NusantaraGo?
 
 <p align="justify">NusantaraGo lahir dari keinginan untuk memperkenalkan keindahan alam Indonesia yang tersembunyi. Alih-alih hanya menawarkan destinasi populer, kami mengembangkan platform yang memahami preferensi unik setiap pengguna untuk merekomendasikan tempat wisata yang sesuai dengan minat mereka.</p>
